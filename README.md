@@ -27,15 +27,12 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
-<a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
@@ -43,8 +40,9 @@
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=selenium&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 <a href= https://github.com/shubhajeet1207?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+ 
 
-
+<br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://in.linkedin.com/in/shubhajeet-pradhan-b7747a156'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/Shubhajeet12'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
@@ -61,3 +59,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajeet1207&theme=dracula" />
 </a>
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhajeet1207&bg_color=fafafa&color=0146d0&line=ee2f2f&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
