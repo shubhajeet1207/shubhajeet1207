@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on writeAbit, a Public blog website.
+- 🔭 I’m currently working on Social media app.
 
-- 🌱 I’m currently learning SQLAlchemy
+- 🌱 I’m currently learning mongoDB. 
 
-- 💬 Talk to me about Python, JavaScript, DJango/Flask, Graphic Designing 
+- 💬 Talk to me about Python, JavaScript, Django/Flask, UI/UX Desinging, Illustrator Arts.  
 <p align="left"> <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a> </p>
   
   
@@ -51,13 +51,20 @@
 
 <br>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhajeet1207&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajeet1207&theme=dracula" />
-</a>
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhajeet1207&bg_color=fafafa&color=0146d0&line=ee2f2f&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🔖 My Statistics
+&nbsp;
+<p align="center">
+    <a href="https://github.com/shubhajeet1207/">
+        <img src="https://github-readme-stats.vercel.app/api?username=shubhajeet1207&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ff5c5c&text_color=ffffff&icon_color=3579f5&hide_border=true/" />
+    </a>
+    <a href="https://github.com/shubhajeet1207/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajeet1207&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    </a>
+    <a href="https://github.com/shubhajeet1207/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhajeet1207&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=fff&ring=3579f5&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    </a>
+   <a href="https://github.com/shubhajeet1207"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhajeet1207&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
+    </a>
+ 
+</p>
+</div>
