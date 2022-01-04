@@ -5,8 +5,8 @@
 <h1> Hello! < Everyone/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhajeet1207.shubhajeet1207)
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhajeet1207.shubhajeet1207)
+<a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a>
 </p>
 <div size='20px'> This is Shubhajeet. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning mongoDB. 
 
 - 💬 Talk to me about Python, JavaScript, Django/Flask, UI/UX Desinging, Illustrator Arts.  
-<p align="left"> <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a> </p>
+
   
 <div align="center">
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
