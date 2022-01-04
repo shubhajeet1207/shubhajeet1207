@@ -55,7 +55,7 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/shubhajeet1207/">
-        <img src="https://github-readme-stats.vercel.app/api?username=shubhajeet1207&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ff5c5c&text_color=ffffff&icon_color=3579f5&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shubhajeet1207&show_icons=true&locale=en&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
     <a href="https://github.com/shubhajeet1207/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajeet1207&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
