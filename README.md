@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "500px" src="https://github.com/shubhajeet1207/banner_image/blob/master/SHUBHAJEET%20PRADHAN(banner).png?raw=true" alt="cover" />
+<img width="100%" height = "470px" src="https://github.com/shubhajeet1207/banner_image/blob/master/SHUBHAJEET%20PRADHAN(banner).png?raw=true" alt="cover" />
 </div>
 
 <h1> Hello! < Everyone/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
