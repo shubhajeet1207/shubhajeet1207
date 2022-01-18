@@ -57,7 +57,7 @@
 <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-FFD700.svg?logo=Pycharm&logoColor=black"></a>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-007396.svg?logo=Figma&logoColor=white"></a>
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=Canva&logoColor=white"></a>
-<a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustratore-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
+<a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
 
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
