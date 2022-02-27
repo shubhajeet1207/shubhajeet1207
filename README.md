@@ -24,12 +24,14 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Social media app.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on Social media app.
 
-- 🌱 I’m currently learning mongoDB. 
+- 🌱 I’m currently learning WEB Socket. 
 
 - 💬 Talk to me about Python, JavaScript, Django/Flask, UI/UX Desinging, Illustrator Arts.  
-<br> </br>
+
+- 📩 Connect with me: [Shubhajeet Pradhan](https://shubhajeet.xyz) 
+ <br> </br>
 
 
 <h2> Achievements <img src="https://img.icons8.com/color/50/000000/prize.png" height = 22px width = 22px></h2>
@@ -55,6 +57,7 @@
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00c2b2.svg?logo=Netlify&logoColor=white"></a>
+<a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-d82b21.svg?logo=redis&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
