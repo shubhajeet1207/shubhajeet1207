@@ -34,9 +34,9 @@
 
 <h2> Achievements <img src="https://img.icons8.com/color/50/000000/prize.png" height = 22px width = 22px></h2>
 <br>
-- Secured 3rd Rank in Akriti'21, UI/UX Designer contest conducted by AASF, ABV-IIITM Gwalior.
-- Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.
-- Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.
+- Secured 3rd Rank in Akriti'21, UI/UX Designer contest conducted by AASF, ABV-IIITM Gwalior.<br>
+- Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.<br>
+- Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.<br>
  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
