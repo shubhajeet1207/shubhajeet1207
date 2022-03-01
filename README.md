@@ -68,7 +68,7 @@
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-007396.svg?logo=Figma&logoColor=white"></a>
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=Canva&logoColor=white"></a>
 <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
-
+</div>
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a target="_blank" href="https://shubhajeet.xyz/"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
@@ -77,9 +77,7 @@
 <a target="_blank" href="https://medium.com/@shubha.pradhan12"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://www.twitter.com/Shubhajeet12"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> 
 
-<br>
-
-## 🔖 My Statistics
+##  My Statistics 🔖
 &nbsp;
 <p align="center">
     <a href="https://github.com/shubhajeet1207/">
@@ -87,12 +85,33 @@
     </a>
     <a href="https://github.com/shubhajeet1207/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajeet1207&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
-    </a>
+ </a>
+ 
+<a href="https://github.com/shubhajeet1207/">
+ <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhajeet1207&theme=github_dark" />
+ </a>
     <a href="https://github.com/shubhajeet1207/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhajeet1207&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=fff&ring=3579f5&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
+
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=shubhajeet1207&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
+<br>
+
    <a href="https://github.com/shubhajeet1207"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhajeet1207&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
     </a>
  
 </p>
+
+<div align="center">
+<details>
+<summary>Profile Summary</summary>
+<br>
+    
+![Metrics](https://metrics.lecoq.io/shubhajeet1207?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+    
+</details>
 </div>
