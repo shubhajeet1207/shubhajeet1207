@@ -1,22 +1,15 @@
 <div align="center">
-<img width="100%" height = "470px" src="https://github.com/shubhajeet1207/banner_image/blob/master/SHUBHAJEET%20PRADHAN(banner).png?raw=true" alt="cover" />
+<img width="100%" src="https://github.com/shubhajeet1207/banner_image/blob/master/SHUBHAJEET%20PRADHAN(banner).png?raw=true" alt="cover" />
 </div>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=franklin+gothic+medium&size=42&duration=5184&color=3576F7&background=FFFFFF00&vCenter=true&width=500&height=145&lines=Student+at+IIITM%2C+Gwalior;Full+Stack+Web+Developer;UI%2FUX+Designer+;Technical+Content+Writer)">
 
-<h1> Hello! < Everyone/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<div size='20px'> This is Shubhajeet. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-<p align='center'>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhajeet1207.shubhajeet1207)
- <br>
 <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a>
   <a href="https://discord.com/channels/889114305310646292/889114306308878389" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-<a href="https://github.com/shubhajeet1207?tab=repositories&sort=stargazers">
+  <a href="https://github.com/shubhajeet1207?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shubhajeet1207"/></a>
-<a href="https://github.com/shubhajeet1207?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shubhajeet1207?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
+  <a href="https://github.com/shubhajeet1207?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shubhajeet1207?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
 </p>
 
 <h2> About Me </h2>
@@ -94,7 +87,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhajeet1207&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=fff&ring=3579f5&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
 
-<div align=center>
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=shubhajeet1207&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
@@ -106,6 +99,7 @@
  
 </p>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhajeet1207.shubhajeet1207)
 <div align="center">
 <details>
 <summary>Profile Summary</summary>
