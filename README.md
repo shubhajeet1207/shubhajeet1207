@@ -1,8 +1,6 @@
 <div align="center">
-<img width="100%" src="https://github.com/shubhajeet1207/banner_image/blob/master/SHUBHAJEET%20PRADHAN(banner).png?raw=true" alt="cover" />
-</div>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=franklin+gothic+medium&size=42&duration=5184&color=3576F7&background=FFFFFF00&vCenter=true&width=500&height=145&lines=Student+at+IIITM%2C+Gwalior;Full+Stack+Web+Developer;UI%2FUX+Designer+;Technical+Content+Writer)">
-
+</div>
 <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a>
   <a href="https://discord.com/channels/889114305310646292/889114306308878389" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
@@ -32,6 +30,7 @@
 - Secured 3rd Rank in Akriti'21, UI/UX Designer contest conducted by AASF, ABV-IIITM Gwalior.<br>
 - Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.<br>
 - Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.<br>
+- Art published in Abhishar Vol.11, yearly magazine by AASF, ABV-IIITM Gwalior. <br>
  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
