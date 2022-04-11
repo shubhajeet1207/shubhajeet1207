@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=franklin+gothic+medium&size=42&duration=5184&color=3576F7&background=FFFFFF00&vCenter=true&width=500&height=145&lines=Student+at+IIITM%2C+Gwalior;Full+Stack+Web+Developer;UI%2FUX+Designer+;Technical+Content+Writer)">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=franklin+gothic+medium&size=42&duration=5184&color=3576F7&background=FFFFFF00&vCenter=true&width=500&height=145&lines=Student+at+IIITM%2C+Gwalior;Full+Stack+Web+Developer;UI%2FUX+Designer+;Technical+Content+Writer">
 </div>
 <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a>
   <a href="https://discord.com/channels/889114305310646292/889114306308878389" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
