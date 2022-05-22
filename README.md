@@ -15,23 +15,23 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on Social media app.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on Social media app.</img>
 
 - 🌱 I’m currently learning WEB Socket. 
 
 - 💬 Talk to me about Python, JavaScript, Django/Flask, UI/UX Desinging, Illustrator Arts.  
 
-- 📩 Connect with me: [Shubhajeet Pradhan](https://shubhajeet.xyz) 
+- 📩 Connect with me: [Shubhajeet Pradhan](https://shubhajeet-pradhan.herokuapp.com) 
  <br> </br>
 
 
 <h2> Achievements <img src="https://img.icons8.com/color/50/000000/prize.png" height = 22px width = 22px></h2>
-<br>
-- Secured 3rd Rank in Akriti'21, UI/UX Designer contest conducted by AASF, ABV-IIITM Gwalior.<br>
-- Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.<br>
-- Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.<br>
-- Art published in Abhishar Vol.11, yearly magazine by AASF, ABV-IIITM Gwalior. <br>
- 
+
+
+- [Secured 3rd Rank in Akriti'21, UI/UX Designer contest conducted by AASF, ABV-IIITM Gwalior](https://www.instagram.com/p/CNAR8KRs0pp)
+- [Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.](https://www.linkedin.com/posts/shubhajeet-pradhan-b7747a156_outofcontext-designing-devfolio-activity-6882320279574495232-p_gM?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.
+- [Illustration Art published in Abhishar Vol.11, yearly magazine by AASF, ABV-IIITM Gwalior.](https://drive.google.com/file/d/1CKtEt0MaYeywsIpJDhV9wvPHz1V44a9Z/view)
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
 <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -63,7 +63,7 @@
 </div>
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a target="_blank" href="https://shubhajeet.xyz/"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
+<a target="_blank" href="https://shubhajeet-pradhan.herokuapp.com"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
 <a target="_blank" href="https://in.linkedin.com/in/shubhajeet-pradhan-b7747a156"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/shubhajeet_12/"><img src="https://img.shields.io/badge/-Instagram-DE1B85?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@shubha.pradhan12"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
