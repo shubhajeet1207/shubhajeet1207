@@ -12,7 +12,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="300em" height="200em" align="right" alt="Github" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" />
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on Social media app.</img>
@@ -62,7 +62,7 @@
 <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
 </div>
 <br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="25px" height="25px"> </h2>
 <a target="_blank" href="https://shubhajeet-pradhan.herokuapp.com"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
 <a target="_blank" href="https://in.linkedin.com/in/shubhajeet-pradhan-b7747a156"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/shubhajeet_12/"><img src="https://img.shields.io/badge/-Instagram-DE1B85?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
