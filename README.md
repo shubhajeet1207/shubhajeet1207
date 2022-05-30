@@ -36,42 +36,43 @@
 - [Illustration Art published in Abhishar Vol.11, yearly magazine by AASF, ABV-IIITM Gwalior.](https://drive.google.com/file/d/1CKtEt0MaYeywsIpJDhV9wvPHz1V44a9Z/view)
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
-<a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="#"><img alt="django" src="https://custom-icon-badges.herokuapp.com/badge/django-25A162.svg?logo=django&logoColor=white"></a>
-<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=Flask&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00c2b2.svg?logo=Netlify&logoColor=white"></a>
-<a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-d82b21.svg?logo=redis&logoColor=white"></a>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-<a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-FFD700.svg?logo=Pycharm&logoColor=black"></a>
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-007396.svg?logo=Figma&logoColor=white"></a>
-<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=Canva&logoColor=white"></a>
-<a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="#"><img alt="django" src="https://custom-icon-badges.herokuapp.com/badge/django-25A162.svg?logo=django&logoColor=white"></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=Flask&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00c2b2.svg?logo=Netlify&logoColor=white"></a>
+  <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-d82b21.svg?logo=redis&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-FFD700.svg?logo=Pycharm&logoColor=black"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-007396.svg?logo=Figma&logoColor=white"></a>
+  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=Canva&logoColor=white"></a>
+  <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
 </div>
 <br>
 <h2> Connect with me <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="25px" height="25px"> </h2>
-<div align="center">
-<a target="_blank" href="https://shubhajeet-pradhan.herokuapp.com"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
-<a target="_blank" href="https://in.linkedin.com/in/shubhajeet-pradhan-b7747a156"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/shubhajeet_12/"><img src="https://img.shields.io/badge/-Instagram-DE1B85?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@shubha.pradhan12"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://www.twitter.com/Shubhajeet12"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> 
-</div>
+  <div align="center">
+    <a target="_blank" href="https://shubhajeet-pradhan.herokuapp.com"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
+    <a target="_blank" href="https://in.linkedin.com/in/shubhajeet-pradhan-b7747a156"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+    <a target="_blank" href="https://www.instagram.com/shubhajeet_12/"><img src="https://img.shields.io/badge/-Instagram-DE1B85?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+    <a target="_blank" href="https://medium.com/@shubha.pradhan12"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+    <a target="_blank" href="https://www.twitter.com/Shubhajeet12"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> 
+  </div>
 
 ##  My Statistics 🔖
 &nbsp;
