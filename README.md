@@ -1,14 +1,16 @@
 <div align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=franklin+gothic+medium&size=42&duration=5184&color=3576F7&background=FFFFFF00&vCenter=true&width=500&height=145&lines=Student+at+IIITM%2C+Gwalior;Full+Stack+Web+Developer;UI%2FUX+Designer+;Technical+Content+Writer">
 </div>
-<a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge" alt="shubhajeet12" /></a>
+<div align="center">
+  <a href="https://github.com/shubhajeet1207?tab=followers">
+    <img alt="github%20followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shubhajeet1207?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Github%20Followers&logoColor=white"/></a>
+  <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge"       alt="shubhajeet12" /></a>
   <a href="https://discord.com/channels/889114305310646292/889114306308878389" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/shubhajeet1207?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shubhajeet1207"/></a>
-  <a href="https://github.com/shubhajeet1207?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shubhajeet1207?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
-</p>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shubhajeet1207"/></a>  
+</div>
+  </p>
 
 <h2> About Me </h2>
 
@@ -63,11 +65,13 @@
 </div>
 <br>
 <h2> Connect with me <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="25px" height="25px"> </h2>
+<div align="center">
 <a target="_blank" href="https://shubhajeet-pradhan.herokuapp.com"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
 <a target="_blank" href="https://in.linkedin.com/in/shubhajeet-pradhan-b7747a156"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/shubhajeet_12/"><img src="https://img.shields.io/badge/-Instagram-DE1B85?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@shubha.pradhan12"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://www.twitter.com/Shubhajeet12"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> 
+</div>
 
 ##  My Statistics 🔖
 &nbsp;
