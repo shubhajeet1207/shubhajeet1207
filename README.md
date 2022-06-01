@@ -12,7 +12,7 @@
 </div>
   </p>
 
-<h2> About Me </h2>
+<h2> About Me 👦🏻</h2>
 
 <img width="300em" height="200em" align="right" alt="Github" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" />
 
@@ -34,7 +34,9 @@
 - [Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.](https://www.linkedin.com/posts/shubhajeet-pradhan-b7747a156_outofcontext-designing-devfolio-activity-6882320279574495232-p_gM?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.
 - [Illustration Art published in Abhishar Vol.11, yearly magazine by AASF, ABV-IIITM Gwalior.](https://drive.google.com/file/d/1CKtEt0MaYeywsIpJDhV9wvPHz1V44a9Z/view)
-<h2> Skills </h2>
+
+<h2> Skills 🛠</h2>
+
 <div align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -65,6 +67,16 @@
   <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
 </div>
 <br>
+
+<h2> Major Projects 🏆</h2>
+
+  - [spyMonk-Says](https://github.com/shubhajeet1207/spyMonk-Says): A personal blog website made with complete django and bootstrap with functionality of sharing and commenting. 
+  - [spyMonkDB](https://github.com/shubhajeet1207/spyMonk-DB): A document database made with complete Python. It's functions are specifically designed with SQL statements. 
+  - [writeABit](https://github.com/shubhajeet1207/writeabit): A personal blog website made with complete django and bootstrap with functionality of sharing and commenting.
+  - [CPU Scheduler](https://github.com/shubhajeet1207/CPU-Scheduling-ITIT-2206): A CPU scheduler. A GUI aplication for visualizing Scheduling process.
+  - [Social Bud](https://github.com/shubhajeet1207/SocialBud): A social media website with chating, and picture posting feature. **~Under Development~**
+  - [The Monk Store](https://github.com/shubhajeet1207/the-monk-store):  An E-Commerce website using Node.js, Express.js and PostgreSQL as a database. It's a team project.
+
 <h2> Connect with me <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="25px" height="25px"> </h2>
   <div align="center">
     <a target="_blank" href="https://shubhajeet-pradhan.herokuapp.com"><img src="https://img.shields.io/badge/-WEB-FF0000?style=for-the-badge&logo=google%20chrome&logoColor=white"></img></a>	
@@ -74,7 +86,7 @@
     <a target="_blank" href="https://www.twitter.com/Shubhajeet12"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> 
   </div>
 
-##  My Statistics 🔖
+##  My Statistics 📈
 &nbsp;
 <p align="center">
     <a href="https://github.com/shubhajeet1207/">
