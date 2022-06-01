@@ -34,7 +34,7 @@
 - [Top 10 Contestant in OutOfContext'21, UI/UX designer 36Hr hackathon.](https://www.linkedin.com/posts/shubhajeet-pradhan-b7747a156_outofcontext-designing-devfolio-activity-6882320279574495232-p_gM?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - Secured 37th Rank in OpenCode'21, OpenSource contest conducted by GeekHaven, IIIT Allahabad.
 - [Illustration Art published in Abhishar Vol.11, yearly magazine by AASF, ABV-IIITM Gwalior.](https://drive.google.com/file/d/1CKtEt0MaYeywsIpJDhV9wvPHz1V44a9Z/view)
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 <div align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
