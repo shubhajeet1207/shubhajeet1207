@@ -34,35 +34,120 @@
 
 <h2> Skills 🛠</h2>
 
-<div align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-  <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="#"><img alt="django" src="https://custom-icon-badges.herokuapp.com/badge/django-25A162.svg?logo=django&logoColor=white"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=Flask&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00c2b2.svg?logo=Netlify&logoColor=white"></a>
-  <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-d82b21.svg?logo=redis&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-FFD700.svg?logo=Pycharm&logoColor=black"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-007396.svg?logo=Figma&logoColor=white"></a>
-  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=Canva&logoColor=white"></a>
-  <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FB542B?logo=Adobe-Illustrator&logoColor=white"></a>  
-</div>
+
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <br/>
+      Python
+    </td>
+    <td align="center">
+      <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <br/>
+      JavaScript
+    </td>
+    <td align="center">
+      <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      <br/>
+      TypeScript
+    </td> 
+    <td align="center">
+      <img alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+      <br/>
+      Markdown
+    </td> 
+    <td align="center">
+      <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <br/>
+      JavaScript
+    </td> 
+    <td align="center">
+      <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+      <br/>
+      HTML5
+    </td> 
+    <td align="center">
+      <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      <br/>
+      CSS3
+    </td> 
+    <td align="center">
+      <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+      <br/>
+      SASS
+    </td> 
+    <td align="center">
+      <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+      <br/>
+      Django
+    </td>  
+    <tr>
+    <td align="center">
+      <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      <br/>
+      PostgreSQL
+    </td> 
+    <td align="center">
+      <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+      <br/>
+      MongoDB
+    </td> 
+    <td align="center">
+      <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+      <br/>
+      SQLite
+    </td> 
+      <td align="center">
+      <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+      <br/>
+      AWS
+    </td> 
+      <td align="center">
+      <img alt="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+      <br/>
+      Heroku
+    </td>
+    <td align="center">
+      <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
+      <br/>
+      Redis
+    </td>  
+    <td align="center">
+      <img alt="Material-UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+      <br/>
+      MaterialUI
+    </td>
+    <td align="center">
+      <img alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+      <br/>
+      BootStrap
+    </td>
+    <td align="center">
+      <img alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+      <br/>
+      Adobe Illustrator
+    </td>
+      <tr/>
+  <tr>
+    <td align="center">
+      <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+      <br/>
+      Figma
+    </td>
+    <td align="center">
+      <img alt="Adobe XD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
+      <br/>
+      Adobe XD
+    </td>
+    <td align="center">
+      <img alt="Socket IO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg">
+      <br/>
+       Socket IO
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <h2> Major Projects 🏆</h2>
