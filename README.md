@@ -4,9 +4,6 @@
 <div align="center">
   <a href="https://github.com/shubhajeet1207?tab=followers">
     <img alt="github%20followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shubhajeet1207?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Github%20Followers&logoColor=white"/></a>
-  <a href="https://twitter.com/shubhajeet12" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajeet12?logo=twitter&style=for-the-badge"       alt="shubhajeet12" /></a>
-  <a href="https://discord.com/channels/889114305310646292/889114306308878389" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/shubhajeet1207?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shubhajeet1207"/></a>  
 </div>
