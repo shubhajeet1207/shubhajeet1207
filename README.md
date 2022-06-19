@@ -145,6 +145,31 @@
       <br/>
        Socket IO
     </td>
+    <td align="center">
+      <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <br/>
+       Git
+    </td>
+    <td align="center">
+      <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+      <br/>
+       GitHub
+    </td>
+    <td align="center">
+      <img alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+      <br/>
+       Selenium
+    </td>
+    <td align="center">
+      <img alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+      <br/>
+       Numpy
+    </td>
+    <td align="center">
+      <img alt="anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+      <br/>
+       Anaconda
+    </td>
   </tr>
 </table>
 
