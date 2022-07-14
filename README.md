@@ -60,7 +60,7 @@
     <td align="center">
       <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
       <br/>
-      JavaScript
+      C++
     </td> 
     <td align="center">
       <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
