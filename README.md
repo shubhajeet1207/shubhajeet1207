@@ -166,9 +166,14 @@
        Numpy
     </td>
     <td align="center">
-      <img alt="anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+      <img alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
       <br/>
-       Anaconda
+       Pandas
+    </td>
+    <td align="center">
+      <img alt="qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+      <br/>
+       PyQT
     </td>
   </tr>
 </table>
