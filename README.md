@@ -14,9 +14,9 @@
 <img width="300em" height="200em" align="right" alt="Github" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" />
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on Social media app.</img>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on Rubik's Cube solver GUI application.</img>
 
-- 🌱 I’m currently learning WEB Socket. 
+- 🌱 I’m currently learning Data Science. 
 
 - 💬 Talk to me about Python, JavaScript, Django/Flask, UI/UX Desinging, Illustrator Arts.  
 
