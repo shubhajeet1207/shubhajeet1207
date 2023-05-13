@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="./resume_badge.png" />
+    <img align="center" alt="banner" src="./resume_badge.png" />
 </p>
     
 Hi. I am [Shubhajeet Pradhan](https://shubhajeetpradhan.netlify.app), IT student at [ABV-Indian Institute of Information Technology and Management, Gwalior]([https://www.tuni.fi/en](https://www.iiitm.ac.in/index.php/en/)) and tech enthusiast from
@@ -11,7 +11,7 @@ Hi. I am [Shubhajeet Pradhan](https://shubhajeetpradhan.netlify.app), IT student
 [![GitHub stars](https://img.shields.io/github/stars/shubhajeet1207?style=flat&colorA=225fb2&colorB=225fb2)](https://github.com/shubhajeet1207)
 [![Views](https://komarev.com/ghpvc/?username=shubhajeet1207&color=225fb2)]([https://www.kassq.dev/](https://shubhajeetpradhan.netlify.app))
 
-## <a href="https://medium.com/@spymonk"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="Medium" alt="Medium" width="25"/></a> Articles on Medium
+## <a href="https://medium.com/@spymonk"></a> Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Things You Need to Know When Designing for Users with Disabilities](https://medium.com/@spymonk/5-things-you-need-to-know-when-designing-for-users-with-disabilities-b667d7dcdfe3)
@@ -19,11 +19,7 @@ Hi. I am [Shubhajeet Pradhan](https://shubhajeetpradhan.netlify.app), IT student
 - [Django Troubleshooting: Part I](https://medium.com/@spymonk/django-troubleshooting-part-i-4d0a2c366270)
 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@spymonk)
     
-<br/>
-
 <hr>
 
 <div align="center">
