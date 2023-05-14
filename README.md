@@ -1,9 +1,9 @@
 <p align="center">
-    <img align="center" alt="banner" src="./resume_badge.png" />
+    <img align="center" alt="banner" src="https://cdn.dribbble.com/userupload/6979724/file/original-d987dcf4024c829a79d6ede3fa8b9d92.png?compress=1&resize=1200x675" />
 </p>
     
 Hi. I am [Shubhajeet Pradhan](https://shubhajeetpradhan.netlify.app), IT student at [ABV-Indian Institute of Information Technology and Management, Gwalior]([https://www.tuni.fi/en](https://www.iiitm.ac.in/index.php/en/)) and tech enthusiast from
-[India](https://en.wikipedia.org/wiki/India). I'm a Python Developer at [Alfalgo](https://main.d1kndt2f1p1c10.amplifyapp.com). <br/>I am most interested in Python development, UI/UX and Cloud infrastructure development and everything around it. Get in touch with me using the links below.
+[India](https://en.wikipedia.org/wiki/India). I've secured **AIR 612** in [GATE-CSE'23](https://gate.iitk.ac.in). I'm a Python Developer at [Alfalgo](https://main.d1kndt2f1p1c10.amplifyapp.com). <br/>I am most interested in Python development, UI/UX and Cloud infrastructure development and everything around it. Get in touch with me using the links below.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&color=225fb2)](https://www.linkedin.com/in/shubhajeet-pradhan-b7747a156/)
 [![Website](https://img.shields.io/badge/Shubhajeet%20Pradhan-green?style=flat&colorA=225fb2&colorB=225fb2&logo=google%20chrome&logoColor=white)](https://shubhajeetpradhan.netlify.app/)
