@@ -11,13 +11,13 @@ Hi. I am [Shubhajeet Pradhan](https://shubhajeetpradhan.netlify.app), IT student
 [![GitHub stars](https://img.shields.io/github/stars/shubhajeet1207?style=flat&colorA=225fb2&colorB=225fb2)](https://github.com/shubhajeet1207)
 [![Views](https://komarev.com/ghpvc/?username=shubhajeet1207&color=225fb2)]([https://www.kassq.dev/](https://shubhajeetpradhan.netlify.app))
 
-## <a href="https://medium.com/@spymonk"></a> Articles on Medium
+## <a href="https://medium.com/@spymonk"></a> Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Things You Need to Know When Designing for Users with Disabilities](https://medium.com/@spymonk/5-things-you-need-to-know-when-designing-for-users-with-disabilities-b667d7dcdfe3)
 - [Get Handy with Django](https://medium.com/tech-iiitg/get-handy-with-django-9e6a7e3e3a71)
 - [Django Troubleshooting: Part I](https://medium.com/@spymonk/django-troubleshooting-part-i-4d0a2c366270)
-
+- [Integrating Cloudinary-Storage with Django 🔗🔥](https://dev.to/spymonk/integrating-cloudinary-storage-with-django-4ipb)
 <!-- BLOG-POST-LIST:END -->
     
 <hr>
