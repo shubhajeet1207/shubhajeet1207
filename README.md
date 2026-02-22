@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="banner" src="https://cdn.dribbble.com/userupload/6979724/file/original-d987dcf4024c829a79d6ede3fa8b9d92.png?compress=1&resize=1200x675" />
+    <img align="center" alt="banner" src="https://cdn.dribbble.com/userupload/46829186/file/30d4ca04bde328fd2e0bfaef4564a3ed.png?resize=2048x1184&vertical=center" />
 </p>
     
 Hi. I am [Shubhajeet Pradhan](https://shubhajeetpradhan.netlify.app), IT student at [ABV-Indian Institute of Information Technology and Management, Gwalior]([https://www.tuni.fi/en](https://www.iiitm.ac.in/index.php/en/)) and tech enthusiast from
